@@ -2,7 +2,7 @@
 
 # Attention! This bot was created only in educational purposes! :innocent:
 
-## Checkout [Wiki](dff) for more information
+## Please, Checkout [Wiki](https://github.com/ZangievM/instagram-scraper-bot/wiki) :innocent:
    
  
  This Bot was implemented using this technologies:
