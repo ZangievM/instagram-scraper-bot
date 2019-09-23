@@ -1,8 +1,8 @@
 ## Telegram-Bot that scrapes data from Instagram pages :smiling_imp:
 
-# Attention! This bot was created only in educational purposes! :innocent:
+### Attention! This bot was created only in educational purposes! :innocent:
 
-## Please, Checkout [Wiki](https://github.com/ZangievM/instagram-scraper-bot/wiki) :innocent:
+### Please, Checkout [Wiki](https://github.com/ZangievM/instagram-scraper-bot/wiki) :innocent:
    
  
  This Bot was implemented using this technologies:
